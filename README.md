@@ -26,8 +26,7 @@
 - 🧠 Strong foundation in **DSA, binary trees, graph algorithms, BFS, DP, KMP**.  
 - 📡 Interested in **IoT systems, sensors, hardware projects** and affordable electronics builds.  
 - 🚀 Passionate about **open-source** and have contributed to projects (e.g. **GSSoC 2026**).  
-- 💼 Exploring entrepreneurship through the **Wadhwani Entrepreneurship program** modules.  
-- 🎮 In my free time: **Euro Truck Simulator 2, online gaming, music production, movies & anime**.
+  
 
 ---
 
