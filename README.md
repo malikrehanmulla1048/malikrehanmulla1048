@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm Malikrehan Mulla 👋</h1>
+<h1 align="center">Hi there, I'm Malikrehan 👋</h1>
 <h3 align="center">Computer Science Student | Backend & Full-Stack Developer | AI/ML & IoT Enthusiast</h3>
 
 <p align="center">
